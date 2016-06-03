@@ -1,6 +1,9 @@
 *.class
+kafka-simple.iml
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+target/
